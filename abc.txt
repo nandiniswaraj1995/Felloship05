@@ -1,2 +1,6 @@
 This is abc file.
+
 I modified locally.
+
+I modified remotely.
+
